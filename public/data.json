@@ -1,0 +1,204 @@
+{
+    "quizzes": [
+        {
+            "title": "ADHD Awareness",
+            "icon": "./assets/images/icon-adhd.svg",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What does ADHD stand for?",
+                    "options": [
+                        "Attention Deficit Hyperactivity Disorder",
+                        "Attention Deficit Hyper Disorder",
+                        "Active Deficit Hyperactivity Disorder",
+                        "Attention Disorder Hyper Deficit"
+                    ],
+                    "answer": "Attention Deficit Hyperactivity Disorder"
+                },
+                {
+                    "id": 2,
+                    "question": "Which of the following is NOT a symptom of ADHD?",
+                    "options": [
+                        "Impulsivity",
+                        "Inattention",
+                        "Anxiety",
+                        "Hyperactivity"
+                    ],
+                    "answer": "Anxiety"
+                },
+                {
+                    "id": 3,
+                    "question": "At what age are symptoms of ADHD typically first noticed?",
+                    "options": [
+                        "Before age 12",
+                        "During teenage years",
+                        "After age 20",
+                        "In adulthood"
+                    ],
+                    "answer": "Before age 12"
+                },
+                {
+                    "id": 4,
+                    "question": "What is one common treatment for managing ADHD symptoms?",
+                    "options": [
+                        "Behavioral Therapy",
+                        "Surgery",
+                        "Homeopathy",
+                        "Ayurvedic Medicine"
+                    ],
+                    "answer": "Behavioral Therapy"
+                }
+            ]
+        },
+        {
+            "title": "Mindfulness",
+            "icon": "./assets/images/icon-mindfulness.svg",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What is the main purpose of mindfulness?",
+                    "options": [
+                        "To control thoughts",
+                        "To be fully present in the moment",
+                        "To improve physical strength",
+                        "To clear all thoughts from the mind"
+                    ],
+                    "answer": "To be fully present in the moment"
+                },
+                {
+                    "id": 2,
+                    "question": "Which of the following is a common mindfulness practice?",
+                    "options": [
+                        "Multitasking",
+                        "Daydreaming",
+                        "Mindful Breathing",
+                        "Listening to music"
+                    ],
+                    "answer": "Mindful Breathing"
+                },
+                {
+                    "id": 3,
+                    "question": "Which of these is a benefit of mindfulness?",
+                    "options": [
+                        "Increased stress levels",
+                        "Improved focus and attention",
+                        "Decreased sleep quality",
+                        "Increased multitasking ability"
+                    ],
+                    "answer": "Improved focus and attention"
+                },
+                {
+                    "id": 4,
+                    "question": "Mindfulness has been shown to improve which of the following?",
+                    "options": [
+                        "Memory and emotional regulation",
+                        "Muscle growth",
+                        "Quick decision-making",
+                        "Mathematical abilities"
+                    ],
+                    "answer": "Memory and emotional regulation"
+                }
+            ]
+        },
+        {
+            "title": "Focus and Attention",
+            "icon": "./assets/images/icon-focus.svg",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What is a common technique used to improve focus?",
+                    "options": [
+                        "Pomodoro Technique",
+                        "Power Sleeping",
+                        "Rapid Multitasking",
+                        "Mindless Scrolling"
+                    ],
+                    "answer": "Pomodoro Technique"
+                },
+                {
+                    "id": 2,
+                    "question": "Which type of environment is most conducive to maintaining focus?",
+                    "options": [
+                        "Noisy with distractions",
+                        "Brightly lit with music",
+                        "Quiet and organized",
+                        "Dark with multiple screens"
+                    ],
+                    "answer": "Quiet and organized"
+                },
+                {
+                    "id": 3,
+                    "question": "Which of the following activities can reduce focus?",
+                    "options": [
+                        "Mindful Meditation",
+                        "Constant multitasking",
+                        "Scheduled breaks",
+                        "Single-tasking"
+                    ],
+                    "answer": "Constant multitasking"
+                },
+                {
+                    "id": 4,
+                    "question": "How long can the average person maintain deep focus before needing a break?",
+                    "options": [
+                        "10 minutes",
+                        "25 minutes",
+                        "90 minutes",
+                        "3 hours"
+                    ],
+                    "answer": "90 minutes"
+                }
+            ]
+        },
+        {
+            "title": "Stress Management",
+            "icon": "./assets/images/icon-stress.svg",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What is a common method to reduce stress?",
+                    "options": [
+                        "Avoiding all responsibilities",
+                        "Progressive Muscle Relaxation",
+                        "Consuming caffeine",
+                        "Isolating oneself"
+                    ],
+                    "answer": "Progressive Muscle Relaxation"
+                },
+                {
+                    "id": 2,
+                    "question": "Which of the following is NOT considered a healthy coping mechanism for stress?",
+                    "options": [
+                        "Exercise",
+                        "Social Support",
+                        "Alcohol Consumption",
+                        "Deep Breathing"
+                    ],
+                    "answer": "Alcohol Consumption"
+                },
+                {
+                    "id": 3,
+                    "question": "What hormone is primarily responsible for the 'fight or flight' stress response?",
+                    "options": [
+                        "Dopamine",
+                        "Serotonin",
+                        "Cortisol",
+                        "Oxytocin"
+                    ],
+                    "answer": "Cortisol"
+                },
+                {
+                    "id": 4,
+                    "question": "Which activity is recommended for reducing chronic stress?",
+                    "options": [
+                        "Prolonged screen time",
+                        "Regular physical exercise",
+                        "Skipping meals",
+                        "Overworking"
+                    ],
+                    "answer": "Regular physical exercise"
+                }
+            ]
+        }
+    ]
+}
